@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(235, 238, 64);
+}
+
+.header{
+    display: flex; 
+}
+.links {
+    justify-content: space-between;
+}
+.section{
+    display: block;
+}
+.america{
+    float: left;
+    display: flex;
+}
+.img2{
+    float: right;
+    display: flex;
+}
+
+.redes{
+display: flex;
+justify-content: space-between;
+}
+.formulario{
+    display: block;
+    justify-content: center;
+}
+.multimedia1{
+    display: flex;
+    justify-content: left;
+}
+.imagenesfinales{
+    display: flex;
+    justify-content: space-between;
+}
+.titulomulti{
+    justify-content: center;
+}
